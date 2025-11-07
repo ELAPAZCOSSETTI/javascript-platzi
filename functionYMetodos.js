@@ -17,7 +17,7 @@ function a () {
 
 const a = function () {}
 
-// Tener propiedades y mÃ©todos
+// Tener propiedades y metodos
 
 function a () {}
 const obj = {}
